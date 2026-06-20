@@ -28,7 +28,3 @@ Welcome to my GitHub! I am deeply passionate about building scalable web applica
 
 ### 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jevon-funay-078608415/)
-
----
-### 📈 GitHub Stats
-![Jevon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JevonFunay&show_icons=true&theme=radium)
